@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 52" width="200" height="52">
+  <defs>
+    <linearGradient id="port-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="198" height="50" rx="25" fill="#18152e" stroke="url(#port-grad)" stroke-width="1.5"/>
+  <circle cx="32" cy="26" r="14" fill="#2e245a"/>
+  <path d="M32 17a9 9 0 1 0 0 18 9 9 0 0 0 0-18zm0 0c2 2.5 3.5 6 3.5 9s-1.5 6.5-3.5 9m0-18c-2 2.5-3.5 6-3.5 9s1.5 6.5 3.5 9m-8-9h16" stroke="#a78bfa" stroke-width="1.5" fill="none"/>
+  <text x="58" y="24" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">Portfolio</text>
+  <text x="58" y="38" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#c4b5fd">Explore My Work →</text>
+</svg>
