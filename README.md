@@ -1,543 +1,478 @@
-<!-- ====================================================== -->
-<!--                     HERO SECTION                      -->
-<!-- ====================================================== -->
+<!-- ================================================================ -->
+<!--       SAITEJA THANNEERU · Premium GitHub Profile README          -->
+<!--       Theme: Midnight Purple / Futuristic Developer Portfolio    -->
+<!--       Palette: #090014 · #25104A · #8B5CF6 · #36BCF7 · #C4B5FD  -->
+<!-- ================================================================ -->
+
+<!-- ======================= HERO SECTION ========================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090014,45:25104A,100:5425A8&text=SAITEJA%20THANNEERU&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:090014,50:25104A,100:5425A8&text=&fontSize=1&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=BCA0FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Solutions;Turning+Data+Into+Insights;Exploring+AI+%26+Machine+Learning;Creating+Meaningful+Software;Always+Learning.+Always+Building."/>
+<table border="0">
+<tr>
+<td align="center" width="200">
+
+<img src="https://github.com/SAITEJA-THANNEERU.png" width="150" alt="Saiteja Thanneeru"/>
+
+</td>
+<td align="left">
+
+<sub>✨ Hey there! I'm</sub>
+<br/>
+
+## SAITEJA *THANNEERU*
+
+**`Software Engineer`** · **`Data Analyst`** · **`AI Enthusiast`**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=BCA0FF&vCenter=true&width=450&lines=%3E+Building+Intelligent+Solutions...;%3E+Turning+Data+Into+Insights...;%3E+Exploring+AI+%26+Machine+Learning...;%3E+Always+Learning.+Always+Building." alt="Typing SVG"/>
 
 <br/><br/>
 
-<a href="https://github.com/SAITEJA-THANNEERU">
-<img src="https://komarev.com/ghpvc/?username=SAITEJA-THANNEERU&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
-</a>
-
-</div>
-
----
-
-<!-- ====================================================== -->
-<!--                      ABOUT ME                          -->
-<!-- ====================================================== -->
-
-## 👨‍💻 About Me
-
-<div align="center">
-
-### Hey there! I'm Saiteja 👋
-
-</div>
-
-I'm a **B.Tech graduate in Computer Science (Data Science)**, passionate about software engineering, data analytics, and artificial intelligence.
-
-I enjoy combining analytical thinking, creativity, and technology to transform ideas into practical solutions.
-
-- 💻 Building full-stack applications and software solutions.
-- 📊 Turning data into meaningful insights and visualizations.
-- 🤖 Exploring Machine Learning and intelligent systems.
-- 🧠 Interested in Generative AI, Agentic AI and RAG architectures.
-- 🚀 Continuously learning, experimenting and building.
-
----
-
-<!-- ====================================================== -->
-<!--                    WHAT I WORK ON                      -->
-<!-- ====================================================== -->
-
-## 🧠 What I Work On
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Engineering
-
-Building responsive applications, backend systems and scalable digital solutions.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Data Analytics
-
-Exploring datasets, discovering patterns and creating interactive dashboards.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Machine Learning
-
-Developing predictive models and exploring data-driven intelligent systems.
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ Generative & Agentic AI
-
-Exploring LLMs, RAG architectures, AI agents and intelligent workflows.
+<a href="https://github.com/SAITEJA-THANNEERU"><img src="https://komarev.com/ghpvc/?username=SAITEJA-THANNEERU&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/></a>&nbsp;
+<a href="https://saiteja-portfolio-mikey.vercel.app/"><img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20WORK%20→-8B5CF6?style=for-the-badge&labelColor=111827" alt="Portfolio"/></a>
 
 </td>
 </tr>
 </table>
 
----
-
-<!-- ====================================================== -->
-<!--                      TECH STACK                        -->
-<!-- ====================================================== -->
-
-## ⚡ Tech Stack & Technologies
-
-<div align="center">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark"/>
-
-<br/>
-
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark"/>
-
-<br/>
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=django,nodejs,supabase,postgres,firebase&theme=dark"/>
-
-<br/>
-
-### 📊 Data Analytics & Visualization
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-<br/>
-
-### 🧪 Machine Learning & Data Science
-
-<img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<br/>
-
-### 🧠 Generative AI & Agentic AI
-
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Agents-6C3483?style=for-the-badge&logo=dependabot&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-34495E?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<br/>
-
-### 🔗 APIs & Integration
-
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/API%20Integration-4169E1?style=for-the-badge&logo=swagger&logoColor=white"/>
-
-<br/>
-
-### 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,powershell&theme=dark"/>
-
 </div>
 
 ---
 
-<!-- ====================================================== -->
-<!--                       MY JOURNEY                       -->
-<!-- ====================================================== -->
+<!-- =================== ABOUT ME + TECH STACK ==================== -->
 
-## ✨ My Journey
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&lines=Learning+%E2%86%92+Building+%E2%86%92+Growing;Every+Experience+Shapes+My+Journey."/>
-
-</div>
-
-<table width="100%">
-
+<table>
 <tr>
-<td width="42%" valign="top">
 
-**01 · AI INTERN**
+<!-- ─────────────── ABOUT ME (Left Card) ─────────────── -->
 
-### TechSaksham
+<td width="35%" valign="top">
 
-`JAN 2025 – APR 2025`
+### 🧑‍💻 About Me
+
+I'm a **B.Tech Graduate in Computer Science (Data Science)**, passionate about software engineering, data analytics, and artificial intelligence.
+
+I love turning ideas into practical, impactful solutions by combining technology, creativity, and analytical thinking.
+
+<br/>
+
+🔮 **Full-Stack Development**
+<br/>
+📊 **Data Analytics & Visualization**
+<br/>
+🤖 **Machine Learning & AI**
+<br/>
+🧠 **Generative & Agentic AI** (RAG, AI Agents)
+<br/>
+🚀 **Continuous Learning & Building**
 
 </td>
 
-<td width="58%" valign="top">
+<!-- ─────────────── TECH STACK (Right Card) ─────────────── -->
 
-**OVERVIEW**
+<td width="65%" valign="top">
 
-Worked on AI-powered applications, Python development, machine learning, data preprocessing and model development.
+### ⚡ Tech Stack & Technologies
 
-</td>
-</tr>
-
+<table>
 <tr>
-<td width="42%" valign="top">
 
-**02 · DATA SCIENCE INTERN**
+<td align="center" valign="top">
 
-### CodSoft
+**`💻 Languages`**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" alt="Languages" height="42"/>
 
-`FEB 2025 – APR 2025`
+</td>
+
+<td align="center" valign="top">
+
+**`🧪 ML & Data Science`**
+<br/><br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
 
 </td>
 
-<td width="58%" valign="top">
-
-**OVERVIEW**
-
-Worked on machine learning and data analytics projects involving data preprocessing, model training, evaluation and visualization.
-
-</td>
 </tr>
-
 <tr>
-<td width="42%" valign="top">
 
-**03 · CO-FOUNDER & SOFTWARE DEVELOPER**
+<td align="center" valign="top">
 
-### SKATE Technologies
+**`🎨 Frontend`**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="Frontend" height="42"/>
 
-`2025 – PRESENT`
+</td>
+
+<td align="center" valign="top">
+
+**`🧠 Generative & Agentic AI`**
+<br/><br/>
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat-square&logo=probot&logoColor=white" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/AI%20Agents-6C3483?style=flat-square&logo=dependabot&logoColor=white" alt="AI Agents"/>
+<br/>
+<img src="https://img.shields.io/badge/RAG-00897B?style=flat-square&logo=bookstack&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/Prompt%20Eng.-34495E?style=flat-square&logo=openai&logoColor=white" alt="Prompt Engineering"/>
 
 </td>
 
-<td width="58%" valign="top">
-
-**OVERVIEW**
-
-Co-founded SKATE Technologies, contributing to modern web applications and AI-enabled solutions with a focus on scalability and user-focused digital products.
-
-</td>
 </tr>
-
 <tr>
-<td width="42%" valign="top">
 
-**04 · DATA SCIENCE WITH AI INTERN**
+<td align="center" valign="top">
 
-### Vajra.ai
+**`⚙️ Backend & Database`**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=django,nodejs,supabase,postgres,firebase&theme=dark" alt="Backend" height="42"/>
 
-`SEP 2025 – PRESENT`
+</td>
+
+<td align="center" valign="top">
+
+**`🔗 APIs & Integration`**
+<br/><br/>
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/API%20Integration-4169E1?style=flat-square&logo=swagger&logoColor=white" alt="API Integration"/>
 
 </td>
 
-<td width="58%" valign="top">
-
-**OVERVIEW**
-
-Working with the Technology team on data science and AI-focused activities, gaining practical experience in data-driven applications and artificial intelligence.
-
-</td>
 </tr>
+<tr>
 
+<td align="center" valign="top">
+
+**`📊 Data Analytics`**
+<br/><br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+
+</td>
+
+<td align="center" valign="top">
+
+**`🛠️ Tools & Platforms`**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,powershell&theme=dark" alt="Tools" height="42"/>
+
+</td>
+
+</tr>
+</table>
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-<!-- ====================================================== -->
-<!--                       EDUCATION                        -->
-<!-- ====================================================== -->
+<!-- ============= JOURNEY + EDUCATION + CERTS ==================== -->
 
-## 🎓 Education
+<table>
+<tr>
 
-<div align="center">
+<!-- ─────────────── MY JOURNEY (Left) ─────────────── -->
 
-### Bachelor of Technology
+<td width="38%" valign="top">
 
-**Computer Science (Data Science)**
+### 🛤️ My Journey
+
+<br/>
+
+<img src="https://img.shields.io/badge/01-8B5CF6?style=for-the-badge" alt="01" height="28"/> &nbsp; **AI Intern — TechSaksham**
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📅 `JAN 2025 – APR 2025`
+
+<sub>Worked on AI-powered applications, Python development, machine learning, data preprocessing and model development.</sub>
+
+---
+
+<img src="https://img.shields.io/badge/02-8B5CF6?style=for-the-badge" alt="02" height="28"/> &nbsp; **Data Science Intern — CodSoft**
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📅 `FEB 2025 – APR 2025`
+
+<sub>Worked on machine learning and data analytics projects involving data preprocessing, model training, evaluation and visualization.</sub>
+
+---
+
+<img src="https://img.shields.io/badge/03-8B5CF6?style=for-the-badge" alt="03" height="28"/> &nbsp; **Co-Founder & Dev — SKATE Technologies**
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📅 `2025 – PRESENT`
+
+<sub>Co-founded SKATE Technologies, contributing to modern web applications and AI-enabled solutions with a focus on scalability and user-focused digital products.</sub>
+
+---
+
+<img src="https://img.shields.io/badge/04-8B5CF6?style=for-the-badge" alt="04" height="28"/> &nbsp; **Data Science with AI Intern — Vajra.ai**
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📅 `SEP 2025 – PRESENT`
+
+<sub>Working with the Technology team on data science and AI-focused activities, gaining practical experience in data-driven applications and artificial intelligence.</sub>
+
+</td>
+
+<!-- ─────────────── EDUCATION (Center) ─────────────── -->
+
+<td width="24%" valign="top" align="center">
+
+### 🎓 Education
+
+<br/><br/>
+
+🎓
+
+**B.Tech (Graduate)**
+
+**Computer Science**
+**(Data Science)**
+
+<br/>
 
 Malla Reddy College of Engineering and Technology
 
-`2022 – 2026`
+<br/>
 
-🎓 Graduate
+📅 `2022 – 2026`
 
-</div>
+<br/><br/>
 
----
-
-<!-- ====================================================== -->
-<!--                  PROFESSIONAL HIGHLIGHTS               -->
-<!-- ====================================================== -->
-
-## 💡 Professional Highlights
-
-<table width="100%">
-<tr>
-
-<td align="center" width="25%">
-
-### 💻
-
-**Development**
-
-Full-Stack Applications
+<img src="https://img.shields.io/badge/🎓%20GRADUATE-8B5CF6?style=for-the-badge&labelColor=111827" alt="Graduate"/>
 
 </td>
 
-<td align="center" width="25%">
+<!-- ─────────────── CERTIFICATIONS (Right) ─────────────── -->
 
-### 📊
+<td width="38%" valign="top">
 
-**Analytics**
+### 🏆 Certifications & Credentials
 
-Data Visualization
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AI & ML**
-
-Intelligent Systems
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔗
-
-**Integration**
-
-APIs & RAG Systems
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- ====================================================== -->
-<!--                    CERTIFICATIONS                      -->
-<!-- ====================================================== -->
-
-## 🏆 Certifications & Credentials
+<br/>
 
 <div align="center">
 
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-academy-graduate-cloud-foundations-training-bad">
-
-<img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations%20Graduate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-
+<img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations%20Graduate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
 </a>
 
 <br/><br/>
 
 <a href="https://www.credly.com/users/saiteja-thanneeru">
-
-<img src="https://img.shields.io/badge/🏅%20EXPLORE%20MY%20CREDLY%20BADGES-View%20Credentials-8B5CF6?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/🏅%20VIEW%20MY%20CREDLY%20BADGES%20→-8B5CF6?style=for-the-badge&labelColor=111827" alt="Credly"/>
 </a>
 
 </div>
 
 <br/>
 
-- Applied AI Foundations | Agents and Workflows — OpenAI Academy
-- Python Essentials — Cisco Networking Academy
-- Data Analytics Essentials — Cisco Networking Academy
-- Introduction to Networks — Cisco
-- Data Visualization with Power BI — Tata
+✅ Applied AI Foundations | Agents and Workflows — **OpenAI Academy**
 
----
+✅ Python Essentials — **Cisco Networking Academy**
 
-<!-- ====================================================== -->
-<!--                    EXPLORE MY WORLD                    -->
-<!-- ====================================================== -->
+✅ Data Analytics Essentials — **Cisco Networking Academy**
 
-## 🌐 Explore My World
+✅ Introduction to Networks — **Cisco**
 
-<div align="center">
-
-<table width="100%">
-
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-### 🧩 Problem Solver
-
-I enjoy breaking complex problems into smaller pieces and developing practical solutions through code and analytical thinking.
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-### 🔬 Technology Explorer
-
-Curious about emerging technologies, intelligent systems, automation and the possibilities of AI.
+✅ Data Visualization with Power BI — **Tata**
 
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-### 🦸 Marvel Universe
-
-A Marvel enthusiast fascinated by superheroes, cinematic universes, iconic characters and epic storytelling.
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-### 🏎️ Formula 1
-
-A motorsport fan fascinated by racing strategy, engineering, performance and innovation.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-### 🏏 Cricket
-
-Enjoy watching and playing cricket, appreciating the strategy, teamwork and competitive spirit.
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-### 🎮 Gaming
-
-Gaming enthusiast who enjoys competitive gameplay, especially BGMI, strategy and immersive gaming experiences.
-
-</td>
-
-</tr>
-
 </table>
 
-<br/>
-
-**Curiosity drives me. Creativity inspires me. Technology empowers me.**
-
-</div>
-
 ---
 
-<!-- ====================================================== -->
-<!--                     IGRIS ASSISTANT                    -->
-<!-- ====================================================== -->
+<!-- ============= EXPLORE MY WORLD + IGRIS ======================= -->
 
-## ⚔️ Meet IGRIS – My AI Assistant
+<table>
+<tr>
+
+<!-- ─────────────── EXPLORE MY WORLD (Left) ─────────────── -->
+
+<td width="55%" valign="top">
+
+### 🌐 Explore My World
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+🧩
+<br/>
+**Problem Solver**
+<br/>
+<sub>Breaking complex problems into practical solutions.</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+🔬
+<br/>
+**Technology Explorer**
+<br/>
+<sub>Curious about emerging technologies and AI.</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+🦸
+<br/>
+**Marvel Universe**
+<br/>
+<sub>A Marvel enthusiast who loves the universe, characters and epic storytelling.</sub>
+
+</td>
+
+</tr>
+<tr>
+
+<td align="center">
+
+🏎️
+<br/>
+**Formula 1**
+<br/>
+<sub>A motorsport fan fascinated by racing strategy and innovation.</sub>
+
+</td>
+
+<td align="center">
+
+🏏
+<br/>
+**Cricket**
+<br/>
+<sub>Enjoy watching and playing cricket, appreciating strategy and teamwork.</sub>
+
+</td>
+
+<td align="center">
+
+🎮
+<br/>
+**Gaming (BGMI)**
+<br/>
+<sub>Gaming enthusiast who enjoys competitive gameplay, especially BGMI.</sub>
+
+</td>
+
+</tr>
+</table>
+
+</td>
+
+<!-- ─────────────── IGRIS AI ASSISTANT (Right) ─────────────── -->
+
+<td width="45%" valign="top">
+
+### ⚔️ Meet IGRIS — My AI Assistant
 
 <div align="center">
 
-<a href="https://saiteja-portfolio-mikey.vercel.app/">
+<br/>
 
-<img src="https://img.shields.io/badge/⚔️%20IGRIS-CHAT%20WITH%20MY%20AI%20ASSISTANT-6D28D9?style=for-the-badge&labelColor=111827"/>
-
-</a>
-
-<br/><br/>
-
-**Inspired by IGRIS from Solo Leveling.**
-
-Meet my personal AI assistant, designed to help visitors explore my portfolio, technical skills, education and professional journey.
+<!-- Shadow Knight illustration — commit igris-banner.svg alongside README.md -->
+<img src="./igris-banner.svg" width="100%" alt="IGRIS — Shadow Knight"/>
 
 <br/>
+
+**Inspired by IGRIS from *Solo Leveling*.**
+
+My personal AI assistant that helps visitors explore my portfolio, technical skills, education and professional journey.
 
 *Ask questions. Explore my work. Get to know me.*
 
-</div>
-
----
-
-<!-- ====================================================== -->
-<!--                     PERSONAL QUOTE                     -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-## ✦ A Thought to Remember
-
 <br/>
-
-### "You were given a mind capable of changing the world. Make sure the world is better because you existed."
-
-<br/>
-
-</div>
-
----
-
-<!-- ====================================================== -->
-<!--                       CONNECT                          -->
-<!-- ====================================================== -->
-
-## 🤝 Let's Connect
-
-<div align="center">
 
 <a href="https://saiteja-portfolio-mikey.vercel.app/">
-
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-EXPLORE%20MY%20WORK-8B5CF6?style=for-the-badge&labelColor=111827"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/saiteja-thanneeru/">
-
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&labelColor=111827"/>
-
-</a>
-
-<a href="mailto:saitejathanneeru07@gmail.com">
-
-<img src="https://img.shields.io/badge/✉️%20EMAIL-GET%20IN%20TOUCH-EA4335?style=for-the-badge&labelColor=111827"/>
-
-</a>
-
-<a href="https://github.com/SAITEJA-THANNEERU">
-
-<img src="https://img.shields.io/badge/🐙%20GITHUB-FOLLOW%20MY%20WORK-333333?style=for-the-badge&labelColor=111827"/>
-
+<img src="https://img.shields.io/badge/💬%20CHAT%20WITH%20IGRIS%20↗-6D28D9?style=for-the-badge&labelColor=111827" alt="Chat with IGRIS"/>
 </a>
 
 <br/><br/>
 
-### Building Today. Innovating Tomorrow.
+</div>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ==================== PERSONAL QUOTE ========================== -->
+
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/❝-8B5CF6?style=flat-square" height="30" alt="Quote Start"/>
+
+<br/><br/>
+
+### *"You were given a mind capable of changing the world. Make sure the world is better because you existed."*
+
+<br/>
+
+<img src="https://img.shields.io/badge/❞-8B5CF6?style=flat-square" height="30" alt="Quote End"/>
+
+<br/><br/>
 
 </div>
 
 ---
 
-<!-- ====================================================== -->
-<!--                        FOOTER                          -->
-<!-- ====================================================== -->
+<!-- ==================== LET'S CONNECT =========================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,45:25104A,100:5425A8&height=130&section=footer"/>
+## 🤝 Let's Connect
+
+<br/>
+
+<a href="https://saiteja-portfolio-mikey.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Explore%20My%20Work%20→-8B5CF6?style=for-the-badge&labelColor=111827" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/saiteja-thanneeru/">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Let's%20Connect%20→-0A66C2?style=for-the-badge&labelColor=111827" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:saitejathanneeru07@gmail.com">
+<img src="https://img.shields.io/badge/✉️%20Email-Get%20In%20Touch%20→-EA4335?style=for-the-badge&labelColor=111827" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/SAITEJA-THANNEERU">
+<img src="https://img.shields.io/badge/🐙%20GitHub-Follow%20My%20Work%20→-333333?style=for-the-badge&labelColor=111827" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### Building Today. **Innovating Tomorrow.**
+
+<br/>
+
+</div>
+
+---
+
+<!-- ======================== FOOTER ============================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:25104A,100:5425A8&height=130&section=footer" width="100%"/>
 
 </div>
