@@ -1,543 +1,228 @@
-<!-- ====================================================== -->
-<!--                     HERO SECTION                      -->
-<!-- ====================================================== -->
+﻿<div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090014,45:25104A,100:5425A8&text=SAITEJA%20THANNEERU&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=BCA0FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Solutions;Turning+Data+Into+Insights;Exploring+AI+%26+Machine+Learning;Creating+Meaningful+Software;Always+Learning.+Always+Building."/>
-
-<br/><br/>
-
-<a href="https://github.com/SAITEJA-THANNEERU">
-<img src="https://komarev.com/ghpvc/?username=SAITEJA-THANNEERU&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+<!-- ======================================================== -->
+<!-- 1. HERO BANNER (LANDSCAPE ONLY - NO PROFILE PHOTO)       -->
+<!-- ======================================================== -->
+<a href="https://saiteja-portfolio-mikey.vercel.app/" target="_blank">
+  <img src="assets/banner/hero-banner.png" width="100%" alt="Saiteja Thanneeru - Software Engineer | Data Analyst | AI Enthusiast" />
 </a>
 
 </div>
 
----
+<br />
 
-<!-- ====================================================== -->
-<!--                      ABOUT ME                          -->
-<!-- ====================================================== -->
+<!-- ======================================================== -->
+<!-- 2. ABOUT ME                                              -->
+<!-- ======================================================== -->
+### ≡ƒæñ About Me
 
-## 👨‍💻 About Me
+> B.Tech graduate in **Computer Science (Data Science)** from Malla Reddy College of Engineering and Technology (2022ΓÇô2026).  
+> Passionate about building robust software, scalable data pipelines, and intelligent AI solutions that solve real-world problems.
 
-<div align="center">
+- ≡ƒÆ╗ **Software Engineering** ΓÇö Full-stack web applications, clean architecture, and RESTful APIs
+- ≡ƒôè **Data Analytics** ΓÇö Data preparation, exploratory analysis, interactive dashboards, and business intelligence
+- ≡ƒñû **Machine Learning & AI** ΓÇö Predictive modeling, Generative AI, RAG architectures, and agentic workflows
 
-### Hey there! I'm Saiteja 👋
+<br />
 
-</div>
+<!-- ======================================================== -->
+<!-- 3. TECH STACK & TOOLS                                    -->
+<!-- ======================================================== -->
+### ≡ƒÆ╗ Tech Stack & Tools
 
-I'm a **B.Tech graduate in Computer Science (Data Science)**, passionate about software engineering, data analytics, and artificial intelligence.
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | <img src="assets/icons/programming/python.svg" width="18" height="18" valign="middle" alt="Python" /> **Python** &nbsp;ΓÇó&nbsp; <img src="assets/icons/programming/java.svg" width="18" height="18" valign="middle" alt="Java" /> **Java** &nbsp;ΓÇó&nbsp; <img src="assets/icons/programming/javascript.svg" width="18" height="18" valign="middle" alt="JavaScript" /> **JavaScript** &nbsp;ΓÇó&nbsp; <img src="assets/icons/programming/typescript.svg" width="18" height="18" valign="middle" alt="TypeScript" /> **TypeScript** |
+| **Frontend** | <img src="assets/icons/frontend/html.svg" width="18" height="18" valign="middle" alt="HTML5" /> **HTML5** &nbsp;ΓÇó&nbsp; <img src="assets/icons/frontend/css.svg" width="18" height="18" valign="middle" alt="CSS3" /> **CSS3** &nbsp;ΓÇó&nbsp; <img src="assets/icons/frontend/react.svg" width="18" height="18" valign="middle" alt="React" /> **React** &nbsp;ΓÇó&nbsp; <img src="assets/icons/frontend/tailwind.svg" width="18" height="18" valign="middle" alt="Tailwind CSS" /> **Tailwind CSS** &nbsp;ΓÇó&nbsp; <img src="assets/icons/frontend/vite.svg" width="18" height="18" valign="middle" alt="Vite" /> **Vite** |
+| **Backend & DB** | <img src="assets/icons/backend/django.svg" width="18" height="18" valign="middle" alt="Django" /> **Django** &nbsp;ΓÇó&nbsp; <img src="assets/icons/backend/nodejs.svg" width="18" height="18" valign="middle" alt="Node.js" /> **Node.js** &nbsp;ΓÇó&nbsp; <img src="assets/icons/backend/supabase.svg" width="18" height="18" valign="middle" alt="Supabase" /> **Supabase** &nbsp;ΓÇó&nbsp; <img src="assets/icons/backend/postgresql.svg" width="18" height="18" valign="middle" alt="PostgreSQL" /> **PostgreSQL** &nbsp;ΓÇó&nbsp; <img src="assets/icons/backend/firebase.svg" width="18" height="18" valign="middle" alt="Firebase" /> **Firebase** |
+| **Data Analytics** | <img src="assets/icons/analytics/power-bi.svg" width="18" height="18" valign="middle" alt="Power BI" /> **Power BI** &nbsp;ΓÇó&nbsp; <img src="assets/icons/analytics/tableau.svg" width="18" height="18" valign="middle" alt="Tableau" /> **Tableau** &nbsp;ΓÇó&nbsp; <img src="assets/icons/analytics/sql.svg" width="18" height="18" valign="middle" alt="SQL" /> **SQL** |
+| **Machine Learning** | <img src="assets/icons/machine-learning/scikit-learn.svg" width="18" height="18" valign="middle" alt="Scikit-learn" /> **Scikit-learn** &nbsp;ΓÇó&nbsp; <img src="assets/icons/machine-learning/pandas.svg" width="18" height="18" valign="middle" alt="Pandas" /> **Pandas** &nbsp;ΓÇó&nbsp; <img src="assets/icons/machine-learning/numpy.svg" width="18" height="18" valign="middle" alt="NumPy" /> **NumPy** &nbsp;ΓÇó&nbsp; <img src="assets/icons/machine-learning/opencv.svg" width="18" height="18" valign="middle" alt="OpenCV" /> **OpenCV** |
+| **AI & LLMs** | <img src="assets/icons/ai/generative-ai.svg" width="18" height="18" valign="middle" alt="Generative AI" /> **Generative AI** &nbsp;ΓÇó&nbsp; <img src="assets/icons/ai/agentic-ai.svg" width="18" height="18" valign="middle" alt="Agentic AI" /> **Agentic AI** &nbsp;ΓÇó&nbsp; <img src="assets/icons/ai/rag.svg" width="18" height="18" valign="middle" alt="RAG" /> **RAG** &nbsp;ΓÇó&nbsp; <img src="assets/icons/ai/ai-agents.svg" width="18" height="18" valign="middle" alt="AI Agents" /> **AI Agents** &nbsp;ΓÇó&nbsp; <img src="assets/icons/ai/prompt-engineering.svg" width="18" height="18" valign="middle" alt="Prompt Engineering" /> **Prompt Engineering** |
+| **Tools & Platforms** | <img src="assets/icons/tools/git.svg" width="18" height="18" valign="middle" alt="Git" /> **Git** &nbsp;ΓÇó&nbsp; <img src="assets/icons/tools/github.svg" width="18" height="18" valign="middle" alt="GitHub" /> **GitHub** &nbsp;ΓÇó&nbsp; <img src="assets/icons/tools/vscode.svg" width="18" height="18" valign="middle" alt="VS Code" /> **VS Code** &nbsp;ΓÇó&nbsp; <img src="assets/icons/tools/linux.svg" width="18" height="18" valign="middle" alt="Linux" /> **Linux** &nbsp;ΓÇó&nbsp; <img src="assets/icons/tools/powershell.svg" width="18" height="18" valign="middle" alt="PowerShell" /> **PowerShell** &nbsp;ΓÇó&nbsp; <img src="assets/icons/tools/rest-api.svg" width="18" height="18" valign="middle" alt="REST APIs" /> **REST APIs** |
 
-I enjoy combining analytical thinking, creativity, and technology to transform ideas into practical solutions.
+<br />
 
-- 💻 Building full-stack applications and software solutions.
-- 📊 Turning data into meaningful insights and visualizations.
-- 🤖 Exploring Machine Learning and intelligent systems.
-- 🧠 Interested in Generative AI, Agentic AI and RAG architectures.
-- 🚀 Continuously learning, experimenting and building.
-
----
-
-<!-- ====================================================== -->
-<!--                    WHAT I WORK ON                      -->
-<!-- ====================================================== -->
-
-## 🧠 What I Work On
+<!-- ======================================================== -->
+<!-- 4. PROFESSIONAL JOURNEY (VERTICAL CAREER TIMELINE)       -->
+<!-- ======================================================== -->
+### ≡ƒÜÇ Professional Journey
 
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Engineering
-
-Building responsive applications, backend systems and scalable digital solutions.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Data Analytics
-
-Exploring datasets, discovering patterns and creating interactive dashboards.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Machine Learning
-
-Developing predictive models and exploring data-driven intelligent systems.
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ Generative & Agentic AI
-
-Exploring LLMs, RAG architectures, AI agents and intelligent workflows.
-
-</td>
-</tr>
+  <tr>
+    <td width="32" align="center" valign="top">
+      <img src="assets/icons/timeline/node-active.svg" width="18" height="18" alt="Active" />
+      <br />
+      <img src="assets/icons/timeline/line.svg" width="2" height="64" alt="|" />
+    </td>
+    <td valign="top">
+      <strong>Vajra.ai</strong> &nbsp;ΓÇó&nbsp; <em>Data Science with AI Intern</em><br />
+      <small><code>≡ƒôà September 2025 ΓÇô Present</code></small><br />
+      <sub>Building data science pipelines, AI agent workflows, and predictive machine learning models.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="32" align="center" valign="top">
+      <img src="assets/icons/timeline/node-active.svg" width="18" height="18" alt="Active" />
+      <br />
+      <img src="assets/icons/timeline/line.svg" width="2" height="64" alt="|" />
+    </td>
+    <td valign="top">
+      <strong>SKATE Technologies</strong> &nbsp;ΓÇó&nbsp; <em>Co-Founder & Software Developer</em><br />
+      <small><code>≡ƒôà 2025 ΓÇô Present</code></small><br />
+      <sub>Leading full-stack software development, responsive web architectures, and AI-enabled product features.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="32" align="center" valign="top">
+      <img src="assets/icons/timeline/node.svg" width="18" height="18" alt="Completed" />
+      <br />
+      <img src="assets/icons/timeline/line.svg" width="2" height="64" alt="|" />
+    </td>
+    <td valign="top">
+      <strong>CodSoft</strong> &nbsp;ΓÇó&nbsp; <em>Data Science Intern</em><br />
+      <small><code>≡ƒôà February 2025 ΓÇô April 2025</code></small><br />
+      <sub>Conducted exploratory data analysis, data preprocessing, visualization, and predictive modeling.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="32" align="center" valign="top">
+      <img src="assets/icons/timeline/node.svg" width="18" height="18" alt="Completed" />
+    </td>
+    <td valign="top">
+      <strong>TechSaksham</strong> <sub>(AICTE & Edunet Foundation)</sub> &nbsp;ΓÇó&nbsp; <em>AI Intern</em><br />
+      <small><code>≡ƒôà January 2025 ΓÇô April 2025</code></small><br />
+      <sub>Developed AI-powered applications, Python ML solutions, and data analytics workflows.</sub>
+    </td>
+  </tr>
 </table>
 
----
+<br />
 
-<!-- ====================================================== -->
-<!--                      TECH STACK                        -->
-<!-- ====================================================== -->
+<!-- ======================================================== -->
+<!-- 5. EDUCATION & CERTIFICATIONS                            -->
+<!-- ======================================================== -->
+### ≡ƒÄô Education & Certifications
 
-## ⚡ Tech Stack & Technologies
+#### ≡ƒôÿ Education
+- **Bachelor of Technology ΓÇö Computer Science (Data Science)**  
+  *Malla Reddy College of Engineering and Technology* &nbsp;ΓÇó&nbsp; 2022 ΓÇô 2026 &nbsp;ΓÇó&nbsp; **Graduate**
 
-<div align="center">
+#### ≡ƒô£ Certifications & Credentials
+- <img src="assets/certifications/aws.svg" width="16" height="16" valign="middle" alt="AWS" /> **AWS Academy Graduate ΓÇö Cloud Foundations Training** &nbsp;ΓÇó&nbsp; [Credly Badge](https://www.credly.com/org/amazon-web-services/badge/aws-academy-graduate-cloud-foundations-training-bad)
+- <img src="assets/certifications/openai.svg" width="16" height="16" valign="middle" alt="OpenAI" /> **Applied AI Foundations \| Agents and Workflows** &nbsp;ΓÇó&nbsp; *OpenAI Academy*
+- <img src="assets/certifications/cisco.svg" width="16" height="16" valign="middle" alt="Cisco" /> **Python Essentials** &nbsp;ΓÇó&nbsp; *Cisco Networking Academy*
+- <img src="assets/certifications/cisco.svg" width="16" height="16" valign="middle" alt="Cisco" /> **Data Analytics Essentials** &nbsp;ΓÇó&nbsp; *Cisco Networking Academy*
+- <img src="assets/certifications/cisco.svg" width="16" height="16" valign="middle" alt="Cisco" /> **Introduction to Networks (CCNA)** &nbsp;ΓÇó&nbsp; *Cisco Networking Academy*
+- <img src="assets/certifications/tata.svg" width="16" height="16" valign="middle" alt="Tata" /> **Data Visualization with Power BI** &nbsp;ΓÇó&nbsp; *Tata*
 
-### 💻 Programming Languages
+<p>
+  <a href="https://www.credly.com/users/saiteja-thanneeru" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-View%20My%20Badges-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="View My Badges on Credly" />
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark"/>
+<br />
 
-<br/>
-
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark"/>
-
-<br/>
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=django,nodejs,supabase,postgres,firebase&theme=dark"/>
-
-<br/>
-
-### 📊 Data Analytics & Visualization
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-<br/>
-
-### 🧪 Machine Learning & Data Science
-
-<img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<br/>
-
-### 🧠 Generative AI & Agentic AI
-
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Agents-6C3483?style=for-the-badge&logo=dependabot&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-34495E?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<br/>
-
-### 🔗 APIs & Integration
-
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/API%20Integration-4169E1?style=for-the-badge&logo=swagger&logoColor=white"/>
-
-<br/>
-
-### 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,powershell&theme=dark"/>
-
-</div>
-
----
-
-<!-- ====================================================== -->
-<!--                       MY JOURNEY                       -->
-<!-- ====================================================== -->
-
-## ✨ My Journey
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&lines=Learning+%E2%86%92+Building+%E2%86%92+Growing;Every+Experience+Shapes+My+Journey."/>
-
-</div>
+<!-- ======================================================== -->
+<!-- 6. BEYOND CODING (EXACTLY 6 BOXES - 3 COLUMNS x 2 ROWS)  -->
+<!-- ======================================================== -->
+### ≡ƒîî Beyond Coding
 
 <table width="100%">
-
-<tr>
-<td width="42%" valign="top">
-
-**01 · AI INTERN**
-
-### TechSaksham
-
-`JAN 2025 – APR 2025`
-
-</td>
-
-<td width="58%" valign="top">
-
-**OVERVIEW**
-
-Worked on AI-powered applications, Python development, machine learning, data preprocessing and model development.
-
-</td>
-</tr>
-
-<tr>
-<td width="42%" valign="top">
-
-**02 · DATA SCIENCE INTERN**
-
-### CodSoft
-
-`FEB 2025 – APR 2025`
-
-</td>
-
-<td width="58%" valign="top">
-
-**OVERVIEW**
-
-Worked on machine learning and data analytics projects involving data preprocessing, model training, evaluation and visualization.
-
-</td>
-</tr>
-
-<tr>
-<td width="42%" valign="top">
-
-**03 · CO-FOUNDER & SOFTWARE DEVELOPER**
-
-### SKATE Technologies
-
-`2025 – PRESENT`
-
-</td>
-
-<td width="58%" valign="top">
-
-**OVERVIEW**
-
-Co-founded SKATE Technologies, contributing to modern web applications and AI-enabled solutions with a focus on scalability and user-focused digital products.
-
-</td>
-</tr>
-
-<tr>
-<td width="42%" valign="top">
-
-**04 · DATA SCIENCE WITH AI INTERN**
-
-### Vajra.ai
-
-`SEP 2025 – PRESENT`
-
-</td>
-
-<td width="58%" valign="top">
-
-**OVERVIEW**
-
-Working with the Technology team on data science and AI-focused activities, gaining practical experience in data-driven applications and artificial intelligence.
-
-</td>
-</tr>
-
+  <tr>
+    <td width="33.33%" align="center" valign="top">
+      <br />
+      <img src="assets/interests/marvel.svg" height="36" alt="Marvel Universe" />
+      <h4>Marvel Universe</h4>
+      <p><sub>Enjoy exploring Marvel characters, stories, and its cinematic universe.</sub></p>
+      <br />
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <br />
+      <img src="assets/interests/formula1.png" height="32" alt="Formula 1" />
+      <h4>Formula 1</h4>
+      <p><sub>Interested in motorsport, racing strategy, and engineering innovation.</sub></p>
+      <br />
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <br />
+      <img src="assets/interests/cricket.png" height="42" alt="Cricket" />
+      <h4>Cricket</h4>
+      <p><sub>Enjoy watching and playing cricket.</sub></p>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" align="center" valign="top">
+      <br />
+      <img src="assets/interests/gaming.svg" width="40" height="40" alt="Gaming" />
+      <h4>Gaming</h4>
+      <p><sub>Enjoy competitive gaming and strategic gameplay, especially BGMI.</sub></p>
+      <br />
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <br />
+      <img src="assets/interests/tech-exploration.svg" width="40" height="40" alt="Technology Explorer" />
+      <h4>Technology Explorer</h4>
+      <p><sub>Curious about emerging technologies, AI, and new innovations.</sub></p>
+      <br />
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <br />
+      <img src="assets/interests/problem-solving.svg" width="40" height="40" alt="Problem Solver" />
+      <h4>Problem Solver</h4>
+      <p><sub>Enjoy breaking complex problems into practical solutions.</sub></p>
+      <br />
+    </td>
+  </tr>
 </table>
 
+<br />
+
+<!-- ======================================================== -->
+<!-- 7. PERSONAL QUOTE (PROMINENT CLOSING BANNER)             -->
+<!-- ======================================================== -->
 ---
-
-<!-- ====================================================== -->
-<!--                       EDUCATION                        -->
-<!-- ====================================================== -->
-
-## 🎓 Education
 
 <div align="center">
 
-### Bachelor of Technology
+<br />
 
-**Computer Science (Data Science)**
+<img src="assets/banner/quote.svg" width="100%" alt="ΓÇ£You were given a mind capable of changing the world. Make sure the world is better because you existed.ΓÇ¥" />
 
-Malla Reddy College of Engineering and Technology
-
-`2022 – 2026`
-
-🎓 Graduate
+<br />
 
 </div>
 
 ---
 
-<!-- ====================================================== -->
-<!--                  PROFESSIONAL HIGHLIGHTS               -->
-<!-- ====================================================== -->
+<br />
 
-## 💡 Professional Highlights
-
-<table width="100%">
-<tr>
-
-<td align="center" width="25%">
-
-### 💻
-
-**Development**
-
-Full-Stack Applications
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊
-
-**Analytics**
-
-Data Visualization
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AI & ML**
-
-Intelligent Systems
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔗
-
-**Integration**
-
-APIs & RAG Systems
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- ====================================================== -->
-<!--                    CERTIFICATIONS                      -->
-<!-- ====================================================== -->
-
-## 🏆 Certifications & Credentials
+<!-- ======================================================== -->
+<!-- 8. LET'S CONNECT                                         -->
+<!-- ======================================================== -->
+### ≡ƒñ¥ Let's Connect
 
 <div align="center">
 
-<a href="https://www.credly.com/org/amazon-web-services/badge/aws-academy-graduate-cloud-foundations-training-bad">
-
-<img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations%20Graduate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-
-</a>
-
-<br/><br/>
-
-<a href="https://www.credly.com/users/saiteja-thanneeru">
-
-<img src="https://img.shields.io/badge/🏅%20EXPLORE%20MY%20CREDLY%20BADGES-View%20Credentials-8B5CF6?style=for-the-badge"/>
-
-</a>
-
-</div>
-
-<br/>
-
-- Applied AI Foundations | Agents and Workflows — OpenAI Academy
-- Python Essentials — Cisco Networking Academy
-- Data Analytics Essentials — Cisco Networking Academy
-- Introduction to Networks — Cisco
-- Data Visualization with Power BI — Tata
-
----
-
-<!-- ====================================================== -->
-<!--                    EXPLORE MY WORLD                    -->
-<!-- ====================================================== -->
-
-## 🌐 Explore My World
-
-<div align="center">
-
-<table width="100%">
-
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-### 🧩 Problem Solver
-
-I enjoy breaking complex problems into smaller pieces and developing practical solutions through code and analytical thinking.
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-### 🔬 Technology Explorer
-
-Curious about emerging technologies, intelligent systems, automation and the possibilities of AI.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-### 🦸 Marvel Universe
-
-A Marvel enthusiast fascinated by superheroes, cinematic universes, iconic characters and epic storytelling.
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-### 🏎️ Formula 1
-
-A motorsport fan fascinated by racing strategy, engineering, performance and innovation.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-### 🏏 Cricket
-
-Enjoy watching and playing cricket, appreciating the strategy, teamwork and competitive spirit.
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-### 🎮 Gaming
-
-Gaming enthusiast who enjoys competitive gameplay, especially BGMI, strategy and immersive gaming experiences.
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
-**Curiosity drives me. Creativity inspires me. Technology empowers me.**
-
-</div>
-
----
-
-<!-- ====================================================== -->
-<!--                     IGRIS ASSISTANT                    -->
-<!-- ====================================================== -->
-
-## ⚔️ Meet IGRIS – My AI Assistant
-
-<div align="center">
-
-<a href="https://saiteja-portfolio-mikey.vercel.app/">
-
-<img src="https://img.shields.io/badge/⚔️%20IGRIS-CHAT%20WITH%20MY%20AI%20ASSISTANT-6D28D9?style=for-the-badge&labelColor=111827"/>
-
-</a>
-
-<br/><br/>
-
-**Inspired by IGRIS from Solo Leveling.**
-
-Meet my personal AI assistant, designed to help visitors explore my portfolio, technical skills, education and professional journey.
-
-<br/>
-
-*Ask questions. Explore my work. Get to know me.*
-
-</div>
-
----
-
-<!-- ====================================================== -->
-<!--                     PERSONAL QUOTE                     -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-## ✦ A Thought to Remember
-
-<br/>
-
-### "You were given a mind capable of changing the world. Make sure the world is better because you existed."
-
-<br/>
-
-</div>
-
----
-
-<!-- ====================================================== -->
-<!--                       CONNECT                          -->
-<!-- ====================================================== -->
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://saiteja-portfolio-mikey.vercel.app/">
-
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-EXPLORE%20MY%20WORK-8B5CF6?style=for-the-badge&labelColor=111827"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/saiteja-thanneeru/">
-
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&labelColor=111827"/>
-
-</a>
-
-<a href="mailto:saitejathanneeru07@gmail.com">
-
-<img src="https://img.shields.io/badge/✉️%20EMAIL-GET%20IN%20TOUCH-EA4335?style=for-the-badge&labelColor=111827"/>
-
-</a>
-
-<a href="https://github.com/SAITEJA-THANNEERU">
-
-<img src="https://img.shields.io/badge/🐙%20GITHUB-FOLLOW%20MY%20WORK-333333?style=for-the-badge&labelColor=111827"/>
-
-</a>
-
-<br/><br/>
-
-### Building Today. Innovating Tomorrow.
-
-</div>
-
----
-
-<!-- ====================================================== -->
-<!--                        FOOTER                          -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,45:25104A,100:5425A8&height=130&section=footer"/>
+<p align="center">
+  <a href="https://saiteja-portfolio-mikey.vercel.app/" target="_blank">
+    <img src="assets/connect/portfolio.svg" height="42" alt="Portfolio - Explore My Work" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/saiteja-thanneeru/" target="_blank">
+    <img src="assets/connect/linkedin.svg" height="42" alt="LinkedIn - Let's Connect" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:saitejathanneeru07@gmail.com" target="_blank">
+    <img src="assets/connect/email.svg" height="42" alt="Email - Get in Touch" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SAITEJA-THANNEERU" target="_blank">
+    <img src="assets/connect/github.svg" height="42" alt="GitHub - Follow My Work" />
+  </a>
+</p>
+
+<sub>Designed with care &nbsp;ΓÇó&nbsp; Built with code &nbsp;ΓÇó&nbsp; Driven by data & AI</sub>
 
 </div>
