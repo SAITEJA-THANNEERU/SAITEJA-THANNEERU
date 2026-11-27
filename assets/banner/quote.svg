@@ -1,32 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 110" width="100%" height="110">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 110" width="1100" height="110" role="img" aria-label="You were given a mind capable of changing the world. Make sure the world is better because you existed.">
   <defs>
-    <linearGradient id="quote-border" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.2"/>
-      <stop offset="30%" stop-color="#818cf8" stop-opacity="0.8"/>
-      <stop offset="70%" stop-color="#c084fc" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.2"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050a12"/>
+      <stop offset="0.58" stop-color="#071321"/>
+      <stop offset="1" stop-color="#100b10"/>
     </linearGradient>
-    <linearGradient id="quote-glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#818cf8"/>
-      <stop offset="100%" stop-color="#c084fc"/>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ef233c" stop-opacity=".95"/>
+      <stop offset=".48" stop-color="#247bdb" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#ef233c" stop-opacity=".9"/>
     </linearGradient>
-    <linearGradient id="quote-bg" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#0b1120" stop-opacity="0.95"/>
+    <linearGradient id="quoteAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff3048"/>
+      <stop offset="1" stop-color="#3b9cff"/>
     </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#8ba4c2" stroke-opacity=".075" stroke-width=".7"/>
+    </pattern>
+    <pattern id="checks" width="12" height="12" patternUnits="userSpaceOnUse">
+      <rect width="6" height="6" fill="#9eb2ca" opacity=".22"/>
+      <rect x="6" y="6" width="6" height="6" fill="#9eb2ca" opacity=".22"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
   </defs>
 
-  <!-- Container Box with Rounded Corners and Subtle Accent Border -->
-  <rect x="2" y="2" width="1096" height="106" rx="14" fill="url(#quote-bg)" stroke="url(#quote-border)" stroke-width="1.5"/>
+  <!-- Dark motorsport / developer backdrop -->
+  <rect x="2" y="2" width="1096" height="106" rx="13" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="106" rx="13" fill="url(#grid)"/>
+  <path d="M2 86H1098" stroke="#1b3854" stroke-opacity=".55"/>
+  <path d="M2 101C190 84 330 105 505 91S830 83 1098 96" fill="none" stroke="#ef233c" stroke-opacity=".18" stroke-width="1.2"/>
+  <path d="M2 105C220 92 370 108 570 96S900 91 1098 101" fill="none" stroke="#268be8" stroke-opacity=".22" stroke-width="1"/>
 
-  <!-- Left Quotation Mark -->
-  <text x="50" y="65" font-family="Georgia, serif" font-size="56" font-weight="bold" fill="url(#quote-glow)" opacity="0.85">“</text>
+  <!-- Subtle speed streaks and circuit details -->
+  <path d="M18 20H116L130 13H184" fill="none" stroke="#ef3349" stroke-opacity=".48" stroke-width="1.2"/>
+  <path d="M916 20H1000L1012 32H1078" fill="none" stroke="#3998ee" stroke-opacity=".4" stroke-width="1.2"/>
+  <circle cx="116" cy="20" r="2" fill="#ff3048"/>
+  <circle cx="1000" cy="20" r="2" fill="#3998ee"/>
+  <path d="M950 3h10v10h-10zM960 13h10v10h-10zM970 3h10v10h-10zM980 13h10v10h-10z"
+        fill="url(#checks)" opacity=".55"/>
 
-  <!-- Quote Body -->
-  <text x="550" y="58" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="20" font-style="italic" font-weight="500" fill="#f8fafc" text-anchor="middle" letter-spacing="0.3">
+  <!-- Quote marks -->
+  <text x="43" y="72" font-family="Georgia, serif" font-size="65" font-weight="700"
+        fill="url(#quoteAccent)" opacity=".95">“</text>
+  <text x="1054" y="83" font-family="Georgia, serif" font-size="65" font-weight="700"
+        fill="url(#quoteAccent)" opacity=".95">”</text>
+
+  <!-- Quote text -->
+  <text x="550" y="61" text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif" font-size="19"
+        font-style="italic" font-weight="600" letter-spacing=".12"
+        fill="#f4f7fb">
     You were given a mind capable of changing the world. Make sure the world is better because you existed.
   </text>
 
-  <!-- Right Quotation Mark -->
-  <text x="1050" y="78" font-family="Georgia, serif" font-size="56" font-weight="bold" fill="url(#quote-glow)" opacity="0.85">”</text>
+  <!-- Minimal red-blue accent bars -->
+  <rect x="458" y="82" width="74" height="2.5" rx="1.25" fill="#ef3048"/>
+  <rect x="532" y="82" width="110" height="2.5" rx="1.25" fill="#278be8"/>
+
+  <!-- Border -->
+  <rect x="1.5" y="1.5" width="1097" height="107" rx="13.5"
+        fill="none" stroke="url(#edge)" stroke-width="1.4" opacity=".9"/>
+  <path d="M15 3H74" stroke="#ff3048" stroke-width="2.5" stroke-linecap="round"/>
 </svg>
